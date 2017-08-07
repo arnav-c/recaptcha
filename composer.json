@@ -1,6 +1,6 @@
 {
     "name": "arnav-c/recaptcha",
-    "description": "Client library for reCAPTCHA, a free service that protect websites from spam and abuse.",
+    "description": "Arnav Fork for Google Recaptcha",
     "type": "library",
     "keywords": ["recaptcha", "captcha", "spam", "abuse"],
     "homepage": "http://www.google.com/recaptcha/",
